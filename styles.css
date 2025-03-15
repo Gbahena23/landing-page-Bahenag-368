@@ -214,8 +214,7 @@ align-items: center;
 border: none;
 position: relative;
 top: -170px;
-left: 40px;
-overflow: auto;  
+left: 40px; 
 }
 
 .border-box {
